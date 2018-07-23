@@ -34,7 +34,8 @@ namespace OOP
         }
 
         // SET & GET
-        // CСоздается нажав правую кнопку мыши на полях
+        // Cоздается нажав правую кнопку мыши на полях
+        // и выбрать пункт "Быстрые действия и рефракторинг"
         public string Name { get => name; set => name = value; }
         public int Age { get => age; set => age = value; }
 
